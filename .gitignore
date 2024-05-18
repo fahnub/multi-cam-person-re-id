@@ -6,6 +6,9 @@
 # VS Code
 .vscode/settings.json
 
+# Data
+market1501.zip
+
 # Vagrant
 .vagrant/
 
